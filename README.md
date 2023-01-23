@@ -7,13 +7,14 @@
 - Andrea Trujillo Azpeitia
 
 ## Objetivo general
-Parrafo con el objetivo general
+Brindar mayor seguridad y libertad a nuestras mascotas.
+
 ### Objetivos específicos
-- Elemento 1 de la lista de objetivos específicos
-- Elemento 2 de la lista de objetivos específicos
-- Elemento 3 de la lista de objetivos específicos
-- Elemento 4 de la lista de objetivos específicos
-...
+- Cuidar a nuestra mascota para prevenir accidentes.
+- Tener un control en el monitoreo de nuestra mascota.
+- Poder conocer aspectos de nuestro entorno para tomar medidas preventivas.
+- Recibir información del entorno de nuestra mascota al momento de querer ingresar al hogar.
+
 - Elemento n de la lista de objetivos específicos
 
 ## Tabla de Software utilizado
