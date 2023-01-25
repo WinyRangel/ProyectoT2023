@@ -27,9 +27,11 @@ Brindar mayor seguridad y libertad a nuestras mascotas.
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
-|    |            |             |        |          |             |
-|    |            |             |        |          |             |
-|    |            |             |        |          |             |
+|   1|ESP32 |             |        |          |             |
+|2   |Sensor de temperatura y humedad |             |        |          |             |
+| 3  |Sensor de gas|             |        |          |             |
+|4|Sensor de llama|   | |  |  |
+
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
 - Elemento de la lista de épicas del proyecto
