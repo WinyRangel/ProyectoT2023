@@ -31,6 +31,8 @@ Brindar mayor seguridad y libertad a nuestras mascotas.
 |2   |Sensor de temperatura y humedad |             |        |          |             |
 | 3  |Sensor de gas|             |        |          |             |
 |4|Sensor de llama|   | |  |  |
+|5|Sensor de proximidad| | | | |
+|6||||||
 
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
