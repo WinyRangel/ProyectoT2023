@@ -46,7 +46,7 @@ Brindar mayor seguridad y libertad a nuestras mascotas.
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|1|Quiero saber cuando mi mascota tenga la necesidad de salir de casa, teninedo yo la seguirdad de que va a estar bien|  Alta   | 3 semanas | |Aumentando la temperatura y humedad.  |
+|1|Quiero saber cuando mi mascota tenga la necesidad de salir de casa, teninedo yo la seguirdad de que va a estar bien|  Alta | 3 semanas |Aumentando la temperatura y humedad.  |Alyne Elizabeth Rojas Gloria |
 |2|                     |           |            |               |             |
 |3|                     |           |            |               |             |
 
