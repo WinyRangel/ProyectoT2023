@@ -27,7 +27,7 @@ Brindar mayor seguridad y libertad a nuestras mascotas.
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
-|   1|ESP32 |             |        |          |             |
+|   1|ESP32 |El módulo ESP32 es una solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos. |![image](https://user-images.githubusercontent.com/99991728/214651946-9046d596-00a0-4c35-bc72-5ef110854bde.png)|  1| $260.00 |
 |2   |Sensor de temperatura y humedad |             |        |          |             |
 | 3  |Sensor de gas|             |        |          |             |
 |4|Sensor de llama|Un detector de llamas es un tipo de sensor que puede detectar y responder a la presencia de una llama. Estos detectores tienen la capacidad de identificar el líquido sin humo y el humo que puede crear un fuego abierto.|![image](https://user-images.githubusercontent.com/99991728/214637623-818241a0-ad1c-4dc6-bae7-da990a0a3aed.png)| 1|  $435.00|
