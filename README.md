@@ -51,6 +51,8 @@ Brindar mayor seguridad y libertad a nuestras mascotas.
 |3|                     |           |            |               |             |
 
 ## Prototipo en dibujo
-- Coloca la fotografia de tu prototipo dibujado a lapiz
+- 
+![image](https://user-images.githubusercontent.com/99991728/214682637-5acf9a68-3d29-4aed-870d-99954638d279.png)
+
 
 
