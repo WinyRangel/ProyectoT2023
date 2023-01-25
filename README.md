@@ -32,7 +32,9 @@ Brindar mayor seguridad y libertad a nuestras mascotas.
 | 3  |Sensor de gas|             |        |          |             |
 |4|Sensor de llama|   | |  |  |
 |5|Sensor de proximidad| | | | |
-|6|Raspberry pi|Raspberry Pi es un ordenador low cost capaz de realizar las mismas funciones que un ordenador estándar de sobremesa, desarrollado con el objetivo de hacer la informática accesible y asequible para todos.|![image](https://user-images.githubusercontent.com/99991728/214634366-b8ea0712-5d0e-4e19-b2a7-6623a8678f99.png)|1|279|
+|6|Raspberry pi|Raspberry Pi es un ordenador low cost capaz de realizar las mismas funciones que un ordenador estándar de sobremesa, desarrollado con el objetivo de hacer la informática accesible y asequible para todos.|![image](https://user-images.githubusercontent.com/99991728/214634366-b8ea0712-5d0e-4e19-b2a7-6623a8678f99.png)|1|2139|
+|7|Cámara|El sensor de imagen OV7670 cuenta con una cámara VGA de un solo chip y procesador de imágenes para todas las funciones|![image](https://user-images.githubusercontent.com/99991728/214635474-d0ac294e-343b-4e2a-b769-fac96cd34303.png)|1|$135.00|
+
 
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
