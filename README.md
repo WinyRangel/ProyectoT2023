@@ -20,8 +20,8 @@ Brindar mayor seguridad y libertad a nuestras mascotas.
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
-|    |          |         |      |
-|    |          |         |      |
+| 1   |Visual Studio Code |17.2  |    IDE  |
+|  2  |Arduino  |    2.0.0|     IDE |
 |    |          |         |      |
 
 ## Tabla con el hardware utilizado
