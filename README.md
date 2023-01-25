@@ -47,9 +47,9 @@ Brindar mayor seguridad y libertad a nuestras mascotas.
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
 |1|Quiero saber cuando mi mascota tenga la necesidad de salir de casa, teninedo yo la seguirdad de que va a estar bien|  Alta | 3 semanas |Aumentando la temperatura y humedad.  |Alyne Elizabeth Rojas Gloria |
-|2|                     |           |            |               |             |
-|3|                     |           |            |               |             |
-
+|2|  Quiero que si mi mascota se siente en peligro pueda salir |Alta|            2 semanas |Usando un gas de manera controlada cerca del sensor| Winy Daniela Manzano Rangel|
+|3|Quiero conocer si mi mascota corre el riesgo de sufrir algún daño por quemadura mientras no me encuentro con él.| Alta|3 semanas|Exponiendo el proyecto a una llama controlada|Maria Iraida García Martínez|
+|4|Quiero que mi mascota tenga mayor libertad y bienestar| Media | 3 semanas| Poner en uso l prototipo| Andrea Trujillo Azpeitia|
 ## Prototipo en dibujo
 - 
 ![image](https://user-images.githubusercontent.com/99991728/214682804-0033cb39-7e6b-4ac7-a4b5-eeea648c5052.png)
