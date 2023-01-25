@@ -30,7 +30,7 @@ Brindar mayor seguridad y libertad a nuestras mascotas.
 |   1|ESP32 |             |        |          |             |
 |2   |Sensor de temperatura y humedad |             |        |          |             |
 | 3  |Sensor de gas|             |        |          |             |
-|4|Sensor de llama|   | |  |  |
+|4|Sensor de llama|Un detector de llamas es un tipo de sensor que puede detectar y responder a la presencia de una llama. Estos detectores tienen la capacidad de identificar el líquido sin humo y el humo que puede crear un fuego abierto.|![image](https://user-images.githubusercontent.com/99991728/214637623-818241a0-ad1c-4dc6-bae7-da990a0a3aed.png)| 1|  $435.00|
 |5|Sensor de proximidad|Un sensor de proximidad es un transductor que detecta objetos o señales que se encuentran cerca del elemento sensor.|![image](https://user-images.githubusercontent.com/99991728/214636322-31502609-1fc6-4d82-969d-077653952f92.png)| 1|$67.00|
 |6|Raspberry pi|Raspberry Pi es un ordenador low cost capaz de realizar las mismas funciones que un ordenador estándar de sobremesa, desarrollado con el objetivo de hacer la informática accesible y asequible para todos.|![image](https://user-images.githubusercontent.com/99991728/214634366-b8ea0712-5d0e-4e19-b2a7-6623a8678f99.png)|1|2139|
 |7|Cámara|El sensor de imagen OV7670 cuenta con una cámara VGA de un solo chip y procesador de imágenes para todas las funciones|![image](https://user-images.githubusercontent.com/99991728/214635474-d0ac294e-343b-4e2a-b769-fac96cd34303.png)|1|$135.00|
