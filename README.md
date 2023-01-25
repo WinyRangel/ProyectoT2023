@@ -52,7 +52,7 @@ Brindar mayor seguridad y libertad a nuestras mascotas.
 
 ## Prototipo en dibujo
 - 
-![image](https://user-images.githubusercontent.com/99991728/214682637-5acf9a68-3d29-4aed-870d-99954638d279.png)
+![image](https://user-images.githubusercontent.com/99991728/214682804-0033cb39-7e6b-4ac7-a4b5-eeea648c5052.png)
 
 
 
