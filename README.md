@@ -282,3 +282,6 @@ void callback(char* topic, byte* message, unsigned int length) {
 
 ![image](https://user-images.githubusercontent.com/99991728/233893926-dc1dee0b-1658-4e43-bd6c-32b24e63f635.png)
 
+## Circuito
+![image](https://user-images.githubusercontent.com/99991728/234071574-ad015145-4400-4b87-bf1b-0fc24c0eb4e9.png)
+
