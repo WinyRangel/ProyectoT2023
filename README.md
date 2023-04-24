@@ -31,9 +31,15 @@ Brindar mayor seguridad y libertad a nuestras mascotas.
 |2   |Sensor de temperatura y humedad |El sensor de humedad cuenta con dos microsensores calibrados en función de la humedad relativa del área o la zona. Al entrar en contacto con el aire, el sensor emite una señal a los sistemas de extracción higorregulables situados en la cocina o el baño.|![image](https://user-images.githubusercontent.com/99991728/214654110-86eceeaf-8c2e-4373-a043-2662dfbc657e.png)|   1  |     $65.00   |
 | 3  |Sensor de gas|Los sensores de gas son dispositivos que indican la presencia de algún gas específico, en algunos casos pueden configurarse o, en caso de tener sensores más precisos, miden la concentración de gas. Los sensores de gas son usados para prevenir la exposición a gases combustibles y gases tóxicos|![image](https://user-images.githubusercontent.com/99991728/214653387-f3ffbd53-2dfe-42cd-b781-f28868f09d47.png)|  1 |   $95.00 |
 |4|Sensor de llama|Un detector de llamas es un tipo de sensor que puede detectar y responder a la presencia de una llama. Estos detectores tienen la capacidad de identificar el líquido sin humo y el humo que puede crear un fuego abierto.|![image](https://user-images.githubusercontent.com/99991728/214637623-818241a0-ad1c-4dc6-bae7-da990a0a3aed.png)| 1|  $435.00|
-|5|Sensor de proximidad|Un sensor de proximidad es un transductor que detecta objetos o señales que se encuentran cerca del elemento sensor.|![image](https://user-images.githubusercontent.com/99991728/214636322-31502609-1fc6-4d82-969d-077653952f92.png)| 1|$67.00|
+|5|Sensor pir |Un sensor PIR o piroeléctrico funciona comparando la temperatura que desprende un objeto con la de su alrededor.|![image](https://user-images.githubusercontent.com/99991728/233894772-674928fd-453d-4137-8f81-a679e0a10e01.png)
+| 1|$40.00|
 |6|Raspberry pi|Raspberry Pi es un ordenador low cost capaz de realizar las mismas funciones que un ordenador estándar de sobremesa, desarrollado con el objetivo de hacer la informática accesible y asequible para todos.|![image](https://user-images.githubusercontent.com/99991728/214634366-b8ea0712-5d0e-4e19-b2a7-6623a8678f99.png)|1|$2139.00|
-|7|Cámara|El sensor de imagen OV7670 cuenta con una cámara VGA de un solo chip y procesador de imágenes para todas las funciones|![image](https://user-images.githubusercontent.com/99991728/214635474-d0ac294e-343b-4e2a-b769-fac96cd34303.png)|1|$135.00|
+|7|Buzzer|También conocido como zumbador es un pequeño transductor capaz de convertir la energía eléctrica en sonido.|![image](https://user-images.githubusercontent.com/99991728/233895414-8484a77f-458d-464e-8d97-5067e262955c.png)
+|1|$93.00|
+|8|Led|LED es un dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz.|![image](https://user-images.githubusercontent.com/99991728/233895657-dc6cbb8f-21e6-4264-9255-4721aad17888.png)
+|5|$7.00|
+|9|Servo|Un servomotor es un dispositivo similar a un motor de corriente continua que tiene la capacidad de ubicarse en cualquier posición dentro de su rango de operación, y mantenerse estable en dicha posición.|![image](https://user-images.githubusercontent.com/99991728/233895762-68be4329-f029-4e40-9d61-6fa40337d4ce.png)
+|$68.60|
 
 
 
@@ -264,11 +270,11 @@ void callback(char* topic, byte* message, unsigned int length) {
     }
   }
 }
-##Placa fenólica
+## Placa fenólica
 ![image](https://user-images.githubusercontent.com/99991728/233894041-362eb541-34c3-4de3-b407-ca5fadd19961.png)
 
 
-##Node-Red
+## Node-Red
 ![image](https://user-images.githubusercontent.com/99991728/233893897-28f83c07-acf8-4610-a1a5-5a3576e2a750.png)
 
 
@@ -276,7 +282,7 @@ void callback(char* topic, byte* message, unsigned int length) {
 - 
 ![image](https://user-images.githubusercontent.com/99991728/214682804-0033cb39-7e6b-4ac7-a4b5-eeea648c5052.png)
 
-##Prototipo fisico
+## Prototipo fisico
 
 ![image](https://user-images.githubusercontent.com/99991728/233893926-dc1dee0b-1658-4e43-bd6c-32b24e63f635.png)
 
