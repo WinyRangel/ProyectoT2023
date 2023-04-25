@@ -63,6 +63,9 @@ Brindar mayor seguridad y libertad a nuestras mascotas.
 ## Node-Red
 ![image](https://user-images.githubusercontent.com/99991728/233893897-28f83c07-acf8-4610-a1a5-5a3576e2a750.png)
 
+## Dashboard
+![image](https://user-images.githubusercontent.com/99991728/234424035-74a1bc13-0e4e-41f9-9737-440bfb833343.png)
+
 
 ## Prototipo en dibujo
 - 
