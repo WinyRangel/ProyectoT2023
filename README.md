@@ -71,6 +71,6 @@ Brindar mayor seguridad y libertad a nuestras mascotas.
 ## Prototipo final
 ![image](https://user-images.githubusercontent.com/99991728/234410933-1e237e36-e36a-4ff5-bc1b-00bf7a069339.png)
 
-## Circuito
-![image](https://user-images.githubusercontent.com/99991728/234071574-ad015145-4400-4b87-bf1b-0fc24c0eb4e9.png)
+## Circuito en fritz
+![image](https://user-images.githubusercontent.com/99991728/234417281-5eb76030-0287-432c-ab05-bb785ddb0da9.png)
 
