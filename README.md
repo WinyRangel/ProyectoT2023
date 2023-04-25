@@ -76,4 +76,5 @@ Brindar mayor seguridad y libertad a nuestras mascotas.
 
 ## Circuito en fritz
 ![image](https://user-images.githubusercontent.com/99991728/234417281-5eb76030-0287-432c-ab05-bb785ddb0da9.png)
+![image](https://user-images.githubusercontent.com/99991728/234430556-c482af8b-6ded-4afc-a24e-87d2978fc4a2.png)
 
