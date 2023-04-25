@@ -6,6 +6,9 @@
 - Alyne Elizabeth Rojas Gloria
 - Andrea Trujillo Azpeitia
 
+## Link a vídeo
+https://www.tiktok.com/t/ZTRTXbsHr/
+
 ## Objetivo general
 Brindar mayor seguridad y libertad a nuestras mascotas.
 
