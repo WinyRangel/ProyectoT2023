@@ -68,9 +68,8 @@ Brindar mayor seguridad y libertad a nuestras mascotas.
 - 
 ![image](https://user-images.githubusercontent.com/99991728/214682804-0033cb39-7e6b-4ac7-a4b5-eeea648c5052.png)
 
-## Prototipo fisico
-
-![image](https://user-images.githubusercontent.com/99991728/233893926-dc1dee0b-1658-4e43-bd6c-32b24e63f635.png)
+## Prototipo final
+![image](https://user-images.githubusercontent.com/99991728/234410933-1e237e36-e36a-4ff5-bc1b-00bf7a069339.png)
 
 ## Circuito
 ![image](https://user-images.githubusercontent.com/99991728/234071574-ad015145-4400-4b87-bf1b-0fc24c0eb4e9.png)
